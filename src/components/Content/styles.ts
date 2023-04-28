@@ -6,6 +6,6 @@ export const Wrapper = css`
   background-size: cover;
   box-sizing: border-box;
   max-width: 800px;
-  height: 100vh;
+  min-height: 100svh;
   margin: 0 auto;
 `;

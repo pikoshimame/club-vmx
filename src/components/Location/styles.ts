@@ -4,4 +4,5 @@ export const Text = css`
   font-size: 20px;
   font-weight: bold;
   line-height: 1.2em;
+  padding-bottom: 48px;
 `;
